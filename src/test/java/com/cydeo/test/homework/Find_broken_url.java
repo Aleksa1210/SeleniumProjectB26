@@ -50,6 +50,7 @@ public class Find_broken_url {
 
 
         }
+        driver.close();
 
 
 
